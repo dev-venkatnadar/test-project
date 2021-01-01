@@ -1,6 +1,6 @@
 <?php
     //** Question 1 **
-    //Defing and adding all array values
+    //Defineing and adding all array values
     echo "--QUESTION 1--<br>";
     $age = array(12, 13 ,14, 15, 16, 17, 18, 19, 20, 21, 22, 20);
     $sum = 0;
